@@ -7,6 +7,5 @@ In order to run this code:
 
 # Training and testing the model
 1. Run parts of localization_model.ipynb file.
-2. You can directly load the dataset into X_train and X_test by using the GeneratedDataset.pickle file.
-3. Training will take about 25 minutes on google colab gpu for 50 iterations. However best results are achieved at about 150 itertions. After that the model begins to overfit.
-4. After training test it on the testing images (code provided).
+2. Training will take about 25 minutes on google colab gpu for 50 iterations. However best results are achieved at about 150 itertions. After that the model begins to overfit.
+3. After training test it on the testing images (code provided).
